@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ineqJD"]
+	path = ineqJD
+	url = https://github.com/cran/ineqJD
+	shallow = true
+	registered = true
+[submodule "parsec"]
+	path = parsec
+	url = https://github.com/cran/parsec
+	shallow = true
+	registered = true
+[submodule "POSetR"]
+	path = POSetR
+	url = https://github.com/cran/POSetR
+	shallow = true
+	registered = true
