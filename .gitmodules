@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "POSetR"]
+	path = POSetR
+	url = https://github.com/cran/POSetR
 [submodule "ineqJD"]
 	path = ineqJD
 	url = https://github.com/cran/ineqJD
 [submodule "parsec"]
 	path = parsec
 	url = https://github.com/cran/parsec
-[submodule "POSetR"]
-	path = POSetR
-	url = https://github.com/cran/POSetR
