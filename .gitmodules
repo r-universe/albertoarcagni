@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "HOasso"]
+	path = HOasso
+	url = https://github.com/cran/HOasso
 [submodule "POSetR"]
 	path = POSetR
 	url = https://github.com/cran/POSetR
